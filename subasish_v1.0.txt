@@ -1,0 +1,7 @@
+public class firstprograme
+{
+ public static void callme()
+ {
+ system.debug("hello world");
+ }
+ }
